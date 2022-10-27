@@ -14,4 +14,4 @@
 
 ## Contact
 
-For questions, feel free to contact Andrew Graves (ajg3eh@virginia.edu).
+For questions, feel free to contact Andrew J. Graves (ajg3eh@virginia.edu).
