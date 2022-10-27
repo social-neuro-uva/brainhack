@@ -6,7 +6,7 @@
 
 ## fmri
 
-- *first_level_from_bids.ipynb* contains code for fitting first-level GLMs condition-wise for traditional GLM analysis and trial-wise for task-based functional connectivity and brain decoding.
+- *first_level_from_bids.ipynb* contains code for fitting first-level GLMs condition-wise for traditional GLM analysis, and trial-wise for task-based functional connectivity and brain decoding.
 
 ## eeg
 
