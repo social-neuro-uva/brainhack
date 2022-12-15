@@ -6,13 +6,14 @@
 
 ## fmri
 
-- *first_level_from_bids.ipynb* fits first-level GLMs condition-wise for traditional GLM analysis, and trial-wise for task-based functional connectivity and brain decoding.
+### glm
 
-- *decoding.ipynb* takes in single-trial GLM coefficients computed in *first_level_from_bids.ipynb* and trains a classifier for stimulus/ events from the first-level design matrices. This procedure is known as multi[variate/voxel]-pattern analysis (MVPA).
+- *first_level_from_bids.ipynb*
+- *decoding.ipynb*
 
 ## eeg
 
-- Add examples one-by-one (TBD, focusing on imaging at the moment).
+- TBD, focusing on imaging at the moment
 
 ## Contact
 
